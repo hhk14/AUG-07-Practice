@@ -11,11 +11,7 @@ prdt=$(($num1 * $num2))
 sub=0
 sub=$(($num1 - $num2))
 div=$(($num1 / $num2))
-
 echo "Sum of $num1 and $num2 is : $sum"
 echo "Product of $num1 and $num2 is : $prdt"
-
 echo "Difference of $num1 and $num2 is : $sub"
 echo "quotient of $num1 and $num2 is : $div"
-
-
